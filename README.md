@@ -1,4 +1,4 @@
-# SSL-HV: Self Supervised based Handwriting Verification
+# SSL-HV: Self Supervised Learning based Handwriting Verification
 
 ## CEDAR Letter Dataset
 LETTER Images: 
