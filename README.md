@@ -1,7 +1,7 @@
 # SSL-HV: Self Supervised Learning based Handwriting Verification
 
 ## CEDAR Handwriting Dataset
-| Dataset | Link to drive |
+| Dataset | Link to Drive |
 |:-----------|:------------:|
 | CEDAR Letter | [Link](https://drive.google.com/drive/folders/1fwRlwtfzV_5Pnyxm9ahQLi2eum2rDshk?usp=sharing)  |
 | CEDAR AND | [Link](https://drive.google.com/drive/folders/1uj6eeaKBmabivxvRqrGokrcCb3B9yAHu?usp=sharing)  |
