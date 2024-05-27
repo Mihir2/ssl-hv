@@ -15,7 +15,7 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 
 ## SL-HV: Supervised Handwriting Verification (Baseline)
 | Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Pre-Trained Model |Paper Cite | Code Cite
-|:------------|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|:------------|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|:--------------:|
 | GSC             | 0.71 / 0.78 | 0.69 / 0.81 | 0.72 / 0.77 | 0.69 / 0.79 | [Link](https://drive.google.com/drive/folders/1N59FYEdCqo7-ogTeT75TOFgR47SJXDc6?usp=drive_link) |[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-1098%28199624%297%3A4%3C304%3A%3AAID-IMA5%3E3.0.CO%3B2-C) |- |
 | ResNet-18 | 0.72 / 0.84 | 0.70 / 0.86 | 0.73 / 0.82 | 0.72 / 0.84 | [Link](https://drive.google.com/drive/folders/1aqpVWjpv9AGkHC8dgmh0WOBxPY_qrrXu?usp=drive_link) |[Link](https://arxiv.org/abs/1512.03385) |[Link](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html) |
 | ViT | 0.65 / 0.79 | 0.68 / 0.80 | 0.64 / 0.78 | 0.66 / 0.79 | [Link](https://drive.google.com/drive/folders/1qaU5THJDpUN2vTNskvJGEciZk_A-H1tN?usp=drive_link) |[Link](https://arxiv.org/abs/2010.11929) |[Link](https://github.com/lightly-ai/lightly/blob/master/lightly/models/modules/masked_causal_vision_transformer.py) |
