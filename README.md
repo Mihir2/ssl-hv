@@ -1,6 +1,6 @@
 # SSL-HV: Self Supervised Learning based Handwriting Verification
 This repository provides a PyTorch Lightning implementation and Pretrained models for SSL-HV, as described in the paper SSL-HV: Self Supervised Learning based Handwriting Verification <br>
-_Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu, Sargur Srihari_ <br>
+_Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu and Sargur Srihari_ <br>
 _The State Unviersity of New York at Buffalo, USA_ <br>
 
 ## SSL-HV Approach
