@@ -8,14 +8,14 @@
 | CEDAR AND GSC Features | [Link](https://drive.google.com/drive/folders/1sqKDswK-w2elL8uuJD0HdqlBZNd1hvFG?usp=sharing) |
 
 ## Pre-Trained models for SL-HV: Supervised Handwriting Verification (Baseline)
-| Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Model Link |
+| Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Model |
 |---------------------------------------|-----------|-----------|-----------|----------| :----------:|
 | GSC             | 0.71 / 0.78 | 0.69 / 0.81 | 0.72 / 0.77 | 0.69 / 0.79 | [Link]() |
 | ResNet-18 | 0.72 / 0.84 | 0.70 / 0.86 | 0.73 / 0.82 | 0.72 / 0.84 | [Link]() |
 | ViT | 0.65 / 0.79 | 0.68 / 0.80 | 0.64 / 0.78 | 0.66 / 0.79 | [Link]() |
 
 ## Pre-trained models for CSSL-HV: Contrastive Self-Supervised Handwriting Verification
-| Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
+| Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model |
 |--------|----------|----------|----------|----------|----------| :----------:|
 | Raw Pixels | 0.96     | 0.95     | 0.07     | -0.02    | 0.63     |[Link]() |
 | HOGS  | 0.57     | 0.02     | 0.63     | 0.11     | 0.72     |[Link]() |
@@ -26,7 +26,7 @@
 | **VAE**  | 0.24 | 0.06 | 0.38 | 0.30 | **0.75** |[Link]() |
 
 ## Pre-trained models for GSSL-HV: Contrastive Self-Supervised Handwriting Verification
-| Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
+| Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model |
 |--------|----------|----------|----------|----------|----------| :----------:|
 | BiGAN  | 0.35 | 0.30 | 0.27 | 0.25 | 0.68 |[Link]() |
 | MoCo  | 0.89 | 0.78 | 0.92 | 0.73 | 0.73 |[Link]() |
