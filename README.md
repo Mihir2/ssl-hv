@@ -32,9 +32,9 @@ BarlowTwins:
 VicReg:
 
 ## Cite
-[SSL-HV paper](https://arxiv.org/): (Pending Arxiv Moderation)
+[SSL-HV paper](https://arxiv.org/): (Pending Arxiv Moderation Id: 5617299)
 ```
-@article{,
+@article{5617299,
   title={Self-Supervised based Handwriting Verification},
   author={Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu and Sargur Srihari},
   journal={arXiv preprint arXiv:},
