@@ -32,7 +32,7 @@ BarlowTwins:
 VicReg:
 
 ## Cite
-[SSL-HV paper](https://arxiv.org/):
+[SSL-HV paper](https://arxiv.org/): (Pending Arxiv Moderation)
 ```
 @article{,
   title={Self-Supervised based Handwriting Verification},
