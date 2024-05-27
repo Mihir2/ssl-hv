@@ -3,9 +3,9 @@
 ## CEDAR Handwriting Dataset
 | Dataset | Link to Drive |
 |:-----------|:------------:|
-| CEDAR Letter | [Link](https://drive.google.com/drive/folders/1fwRlwtfzV_5Pnyxm9ahQLi2eum2rDshk?usp=sharing)  |
-| CEDAR AND | [Link](https://drive.google.com/drive/folders/1uj6eeaKBmabivxvRqrGokrcCb3B9yAHu?usp=sharing)  |
-| CEDAR AND GSC | [Link](https://drive.google.com/drive/folders/1sqKDswK-w2elL8uuJD0HdqlBZNd1hvFG?usp=sharing) |
+| CEDAR Letter Images | [Link](https://drive.google.com/drive/folders/1fwRlwtfzV_5Pnyxm9ahQLi2eum2rDshk?usp=sharing)  |
+| CEDAR AND Images| [Link](https://drive.google.com/drive/folders/1uj6eeaKBmabivxvRqrGokrcCb3B9yAHu?usp=sharing)  |
+| CEDAR AND GSC Features | [Link](https://drive.google.com/drive/folders/1sqKDswK-w2elL8uuJD0HdqlBZNd1hvFG?usp=sharing) |
 
 ## Pre-Trained models for SL-HV: Supervised Handwriting Verification (Baseline)
 | Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Model Link |
