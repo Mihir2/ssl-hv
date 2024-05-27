@@ -1,0 +1,7 @@
+lightning[extra]
+bokeh==3.3.4
+tensorboard==2.16.2
+tensorflow[and-cuda]
+timm>=0.9.9
+git+https://github.com/lightly-ai/lightly.git
+lightning-bolts
