@@ -36,7 +36,7 @@ VicReg:
 ```
 @article{,
   title={Self-Supervised based Handwriting Verification},
-  author={Mihir Chauhan},
+  author={Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu and Sargur Srihari},
   journal={arXiv preprint arXiv:},
   year={2024}
 }
