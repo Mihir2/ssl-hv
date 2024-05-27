@@ -30,11 +30,11 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 | Flow | 0.12 | 0.08 | 0.12 | 0.01 | 0.66 |[Link]() |
 | MAE  | 0.18     | 0.02     | 0.82     | 0.77     | 0.71     |[Link]() |
 | **VAE**  | 0.24 | 0.06 | 0.38 | 0.30 | **0.75** |[Link]() |
+| BiGAN  | 0.35 | 0.30 | 0.27 | 0.25 | 0.68 |[Link]() |
 
 ## GSSL-HV: Contrastive Self-Supervised Handwriting Verification
 | Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model |
 |:--------|:----------:|:----------:|:----------:|:----------:|:----------:| :----------:|
-| BiGAN  | 0.35 | 0.30 | 0.27 | 0.25 | 0.68 |[Link]() |
 | MoCo  | 0.89 | 0.78 | 0.92 | 0.73 | 0.73 |[Link]() |
 | SimClr | 0.89 | 0.87 | 0.87 | 0.85 | 0.72 |[Link]() |
 | BYOL  | 0.88 | 0.84 | 0.91 | 0.97 | 0.73 |[Link]() |
