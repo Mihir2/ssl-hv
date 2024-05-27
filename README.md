@@ -15,11 +15,11 @@
 | ViT | 0.65 / 0.79 | 0.68 / 0.80 | 0.64 / 0.78 | 0.66 / 0.79 | [Link]() |
 
 ## Pre-trained models for CSSL-HV: Contrastive Self-Supervised Handwriting Verification
-| Model                                 | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
-|---------------------------------------|----------|----------|----------|----------|----------| :----------:|
-| Raw Pixels                            | 0.96     | 0.95     | 0.07     | -0.02    | 0.63     |[Link]() |
-| HOGS             | 0.57     | 0.02     | 0.63     | 0.11     | 0.72     |[Link]() |
-| GSC             | 0.92     | 0.67     | 0.86     | 0.56     | 0.71     |[Link]() |
+| Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
+|--------|----------|----------|----------|----------|----------| :----------:|
+| Raw Pixels | 0.96     | 0.95     | 0.07     | -0.02    | 0.63     |[Link]() |
+| HOGS  | 0.57     | 0.02     | 0.63     | 0.11     | 0.72     |[Link]() |
+| GSC   | 0.92     | 0.67     | 0.86     | 0.56     | 0.71     |[Link]() |
 | AIM  | 0.32     | -0.05    | 0.78     | 0.75     | 0.73     |[Link]() |
 | Flow | 0.12 | 0.08 | 0.12 | 0.01 | 0.66 |[Link]() |
 | MAE  | 0.18     | 0.02     | 0.82     | 0.77     | 0.71     |[Link]() |
@@ -32,8 +32,8 @@ VAE:
 BiGAN:
 
 ## Pre-trained models for GSSL-HV: Contrastive Self-Supervised Handwriting Verification
-| Model                                 | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
-|---------------------------------------|----------|----------|----------|----------|----------| :----------:|
+| Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
+|--------|----------|----------|----------|----------|----------| :----------:|
 | BiGAN  | 0.35 | 0.30 | 0.27 | 0.25 | 0.68 |[Link]() |
 | MoCo  | 0.89 | 0.78 | 0.92 | 0.73 | 0.73 |[Link]() |
 | SimClr | 0.89 | 0.87 | 0.87 | 0.85 | 0.72 |[Link]() |
