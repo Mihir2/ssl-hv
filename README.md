@@ -15,14 +15,14 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 
 ## SL-HV: Supervised Handwriting Verification (Baseline)
 | Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Pre-Trained Model |Paper Cite | Code Cite
-|:--------|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|:------------|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | GSC             | 0.71 / 0.78 | 0.69 / 0.81 | 0.72 / 0.77 | 0.69 / 0.79 | [Link](https://drive.google.com/drive/folders/1N59FYEdCqo7-ogTeT75TOFgR47SJXDc6?usp=drive_link) |[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-1098%28199624%297%3A4%3C304%3A%3AAID-IMA5%3E3.0.CO%3B2-C) |- |
 | ResNet-18 | 0.72 / 0.84 | 0.70 / 0.86 | 0.73 / 0.82 | 0.72 / 0.84 | [Link](https://drive.google.com/drive/folders/1aqpVWjpv9AGkHC8dgmh0WOBxPY_qrrXu?usp=drive_link) |[Link](https://arxiv.org/abs/1512.03385) |[Link](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html) |
 | ViT | 0.65 / 0.79 | 0.68 / 0.80 | 0.64 / 0.78 | 0.66 / 0.79 | [Link](https://drive.google.com/drive/folders/1qaU5THJDpUN2vTNskvJGEciZk_A-H1tN?usp=drive_link) |[Link](https://arxiv.org/abs/2010.11929) |[Link](https://github.com/lightly-ai/lightly/blob/master/lightly/models/modules/masked_causal_vision_transformer.py) |
 
 ## CSSL-HV: Contrastive Self-Supervised Handwriting Verification
 | Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Pre-Trained Model |Paper Cite | Code Cite
-|:-----------|:----------:|:----------:|:----------:|:----------:|:----------:| :----------:|:----------:|:----------:|
+|:-------------|:----------:|:----------:|:----------:|:----------:|:----------:| :----------:|:----------:|:----------:|
 | Raw Pixels | 0.96     | 0.95     | 0.07     | -0.02    | 0.63     |- | - | - |
 | HOGS  | 0.57     | 0.02     | 0.63     | 0.11     | 0.72     |[Link](https://drive.google.com/drive/folders/1vYEkDRKhh7OB5OZIj-fo9_iRRME2jzMz?usp=drive_link) |[Link](https://ieeexplore.ieee.org/document/1467360) |[Link](https://docs.opencv.org/4.x/d5/d33/structcv_1_1HOGDescriptor.html) |
 | GSC   | 0.92     | 0.67     | 0.86     | 0.56     | 0.71     |[Link](https://drive.google.com/drive/folders/1N59FYEdCqo7-ogTeT75TOFgR47SJXDc6?usp=drive_link) |[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291098-1098%28199624%297%3A4%3C304%3A%3AAID-IMA5%3E3.0.CO%3B2-C) |- |
@@ -34,7 +34,7 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 
 ## GSSL-HV: Contrastive Self-Supervised Handwriting Verification
 | Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Pre-Trained Model | Paper Cite | Code Cite
-|:--------|:----------:|:----------:|:----------:|:----------:|:----------:| :----------:| :----------:|:----------:|
+|:----------|:----------:|:----------:|:----------:|:----------:|:----------:| :----------:| :----------:|:----------:|
 | MoCo  | 0.89 | 0.78 | 0.92 | 0.73 | 0.73 |[Link](https://drive.google.com/drive/folders/1XHxKRdmayZ2Wya8PF5NMS3elNj--N6gn?usp=drive_link) |[Link](https://arxiv.org/abs/1911.05722v3) |[Link](https://docs.lightly.ai/self-supervised-learning/examples/moco.html) |
 | SimClr | 0.89 | 0.87 | 0.87 | 0.85 | 0.72 |[Link](https://drive.google.com/drive/folders/1YuR-5BKBy0JxaHIGMlbGpCdplCnezvgj?usp=drive_link) |[Link](https://arxiv.org/abs/2002.05709) |[Link](https://docs.lightly.ai/self-supervised-learning/examples/simclr.html) |
 | BYOL  | 0.88 | 0.84 | 0.91 | 0.97 | 0.73 |[Link](https://drive.google.com/drive/folders/171WZmgxx-E9YuHjtEuF4eIhnCTeS1gIX?usp=drive_link) |[Link](https://arxiv.org/abs/2006.07733) |[Link](https://docs.lightly.ai/self-supervised-learning/examples/byol.html) |
