@@ -2,15 +2,16 @@
 This repository provides a PyTorch Lightning implementation and Pretrained models for SSL-HV, as described in the paper SSL-HV: Self Supervised Learning based Handwriting Verification <br>
 _Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu, Sargur Srihari_ <br>
 _The State Unviersity of New York at Buffalo, USA_ <br>
+
+## SSL-HV Approach
+<img src="images/arxiv-paper-ssl-hv.jpg" height="500">
+
 ## CEDAR Handwriting Dataset
 | Dataset | Link to Drive |
 |:-----------|:------------:|
 | CEDAR Letter Images | [Link](https://drive.google.com/drive/folders/1fwRlwtfzV_5Pnyxm9ahQLi2eum2rDshk?usp=sharing)  |
 | CEDAR AND Images| [Link](https://drive.google.com/drive/folders/1uj6eeaKBmabivxvRqrGokrcCb3B9yAHu?usp=sharing)  |
 | CEDAR AND GSC Features | [Link](https://drive.google.com/drive/folders/1sqKDswK-w2elL8uuJD0HdqlBZNd1hvFG?usp=sharing) |
-
-## SSL-HV Approach
-<img src="images/arxiv-paper-ssl-hv.jpg" height="500">
 
 ## SL-HV: Supervised Handwriting Verification (Baseline)
 | Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Model |
