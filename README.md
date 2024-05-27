@@ -9,6 +9,9 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 | CEDAR AND Images| [Link](https://drive.google.com/drive/folders/1uj6eeaKBmabivxvRqrGokrcCb3B9yAHu?usp=sharing)  |
 | CEDAR AND GSC Features | [Link](https://drive.google.com/drive/folders/1sqKDswK-w2elL8uuJD0HdqlBZNd1hvFG?usp=sharing) |
 
+## SSL-HV Approach
+<img src="images/arxiv-paper-ssl-hv.jpg" height="500">
+
 ## SL-HV: Supervised Handwriting Verification (Baseline)
 | Model                                 | Accuracy  | Precision | Recall    | F1-Score |  Model |
 |:--------|:----------:|:----------:|:----------:|:----------:|:----------:|
