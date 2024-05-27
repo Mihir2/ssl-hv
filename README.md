@@ -25,12 +25,6 @@
 | MAE  | 0.18     | 0.02     | 0.82     | 0.77     | 0.71     |[Link]() |
 | **VAE**  | 0.24 | 0.06 | 0.38 | 0.30 | **0.75** |[Link]() |
 
-AIM:
-Flow:
-MAE:
-VAE:
-BiGAN:
-
 ## Pre-trained models for GSSL-HV: Contrastive Self-Supervised Handwriting Verification
 | Model  | Intra-Nd | Inter-Nd | Intra-2d | Inter-2d | Accuracy |  Model Link |
 |--------|----------|----------|----------|----------|----------| :----------:|
