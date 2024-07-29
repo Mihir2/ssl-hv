@@ -4,7 +4,7 @@ _Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu
 _The State Unviersity of New York at Buffalo, USA_ <br>
 
 ## SSL-HV Approach
-<img src="images/arxiv-paper-ssl-hv.jpg" height="500">
+<img src="images/imvip2.png" height="500">
 
 ## CEDAR Handwriting Dataset
 | Dataset | Link to Drive |
