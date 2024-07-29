@@ -45,7 +45,7 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 | **VicReg** | 0.69 | 0.48 | 0.65 | 0.60 | **0.78** |[Link](https://drive.google.com/drive/folders/14Xh2mOQiJZn8Xmuz49vfSuR1kIrA1Dv_?usp=drive_link) |[Link](https://arxiv.org/abs/2105.04906) |[Link](https://docs.lightly.ai/self-supervised-learning/examples/vicreg.html) |
 
 ## Cite
-[SSL-HV paper](https://arxiv.org/): (Pending Arxiv Moderation Id: 5617299)
+[SSL-HV paper](https://arxiv.org/abs/2405.18320):
 ```
 @article{5617299,
   title={Self-Supervised based Handwriting Verification},
