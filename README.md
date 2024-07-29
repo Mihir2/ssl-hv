@@ -47,10 +47,13 @@ _The State Unviersity of New York at Buffalo, USA_ <br>
 ## Cite
 [SSL-HV paper](https://arxiv.org/abs/2405.18320) (Accepted in [IMVIP](https://www.imvip.ie/) Main Proceedings Aug, 2024)
 ```
-@article{5617299,
-  title={Self-Supervised based Handwriting Verification},
-  author={Mihir Chauhan, Mohammad Abuzar Shaikh, Bina Ramamurthy, Mingchen Gao, Siwei Lyu and Sargur Srihari},
-  journal={arXiv preprint arXiv:},
-  year={2024}
+@misc{chauhan2024selfsupervisedlearningbasedhandwriting,
+      title={Self-Supervised Learning Based Handwriting Verification}, 
+      author={Mihir Chauhan and Mohammad Abuzar Shaikh and Bina Ramamurthy and Mingchen Gao and Siwei Lyu and Sargur Srihari},
+      year={2024},
+      eprint={2405.18320},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.18320}, 
 }
 ```
